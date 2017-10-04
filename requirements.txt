@@ -2,3 +2,5 @@ gunicorn
 Flask
 pinyin
 requests
+pytz
+urllib2
