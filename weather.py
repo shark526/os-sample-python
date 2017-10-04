@@ -14,7 +14,7 @@ import time_convert
 
 application = Flask(__name__)
 #from flask.ext.jsonpify import jsonify
-wechat_token='ttookkeenn'
+wechat_token='token'
 
 def check_signature(signature, timestamp, nonce):
     token = wechat_token
