@@ -12,9 +12,9 @@ import collections
 
 XIAOI_URL = 'http://nlp.xiaoi.com/ask.do?platform=custom&question=%s&userId=%s'
 
-API_KEY = "MuI3aBlK6kooO"
+API_KEY = "MuI3aBlK6koO"
 
-API_SEC = "1nyzMvEAAqMxaIHMXbXXK"
+API_SEC = "1nyzMvEAAqMxaIHMXbXK"
 
 
 
