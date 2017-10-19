@@ -6,7 +6,7 @@ import dbservice
 from datetime import datetime
 import pytz
 
-aqiToken = "afd1d144aad6b459aa2fd3c436611434faf937ad"
+aqiToken = "afd1d144aad6b459aa2fd3c436611434faf937aad"
 locationAPIUrl = "http://api.waqi.info/feed/geo:%s/?token=%s"
 cityAPIUrl = "http://api.waqi.info/feed/%s/?token=%s"
 queryResultString = u"当前空气质量指数是:%s %s\r\n数据采集时间:%s点\r\n"
