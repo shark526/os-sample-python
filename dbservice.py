@@ -27,7 +27,7 @@ def create_connection(db_file):
         # print sqlite3.version
         return connct
     except Error as ex:
-        print ex
+        print (ex)
     return None
 
 def exec_sql(conn, sql, prameters=None):
