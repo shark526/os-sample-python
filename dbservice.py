@@ -73,7 +73,7 @@ def initial_db():
 if __name__ == '__main__':
     #pass
     if not os.path.isfile(DB_FILE_PATH):
-	initial_db()
+        initial_db()
     # userinfo = ("fkfuks211", "123.5,1354.3", "chengdu", "l","2017-09-04 11", time.strftime('%Y-%m-%d %H'), "88")
     # update_user_info(userinfo)
     # print "user fkfuks211 insert/update done"
